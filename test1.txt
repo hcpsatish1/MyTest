@@ -1,0 +1,10 @@
+ Volume in drive F is New Volume
+ Volume Serial Number is 2E50-4323
+
+ Directory of F:\gitdemo\myfolder
+
+12/25/2020  01:01 AM    <DIR>          .
+12/25/2020  01:01 AM    <DIR>          ..
+12/25/2020  01:01 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  903,975,243,776 bytes free
